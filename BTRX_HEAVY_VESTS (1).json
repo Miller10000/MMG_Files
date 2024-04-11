@@ -1,0 +1,824 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BTRX HEAVY VESTS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "BRTX_HeavyVest_Kamikaze",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_KamikazeG",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Spiderman",
+      "MaxPriceThreshold": 36000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Spiderman2",
+        "BRTX_HeavyVest_Spiderman3",
+        "BRTX_HeavyVest_Spiderman4",
+        "BRTX_HeavyVest_Spiderman5",
+        "BRTX_HeavyVest_Spiderman6"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Anime",
+      "MaxPriceThreshold": 36000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Anime2",
+        "BRTX_HeavyVest_Anime3"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_BeastMode",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 19000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_BeastW",
+      "MaxPriceThreshold": 38000,
+      "MinPriceThreshold": 19000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Camo14",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Camo16",
+        "BRTX_HeavyVest_Camo21",
+        "BRTX_HeavyVest_Camo33",
+        "BRTX_HeavyVest_Camo34",
+        "BRTX_HeavyVest_Camo40",
+        "BRTX_HeavyVest_Camo41",
+        "BRTX_HeavyVest_Camo43",
+        "BRTX_HeavyVest_Camo44",
+        "BRTX_HeavyVest_Camo45",
+        "BRTX_HeavyVest_Camo46",
+        "BRTX_HeavyVest_Camo48",
+        "BRTX_HeavyVest_Camo49",
+        "BRTX_HeavyVest_Camo51",
+        "BRTX_HeavyVest_Camo52",
+        "BRTX_HeavyVest_Camo56",
+        "BRTX_HeavyVest_Camo60",
+        "BRTX_HeavyVest_Camo63",
+        "BRTX_HeavyVest_Camo64",
+        "BRTX_HeavyVest_Camo65",
+        "BRTX_HeavyVest_Camo77",
+        "BRTX_HeavyVest_Camo78",
+        "BRTX_HeavyVest_Camo79",
+        "BRTX_HeavyVest_Camo81",
+        "BRTX_HeavyVest_Camo101",
+        "BRTX_HeavyVest_Camo109",
+        "BRTX_HeavyVest_Camo121",
+        "BRTX_HeavyVest_Camo122",
+        "BRTX_HeavyVest_Camo149",
+        "BRTX_HeavyVest_Camo156",
+        "BRTX_HeavyVest_Camo167",
+        "BRTX_HeavyVest_Camo210",
+        "BRTX_HeavyVest_Camo253",
+        "BRTX_HeavyVest_Camo256",
+        "BRTX_HeavyVest_Camo256A",
+        "BRTX_HeavyVest_Camo257",
+        "BRTX_HeavyVest_Camo258",
+        "BRTX_HeavyVest_Camo259",
+        "BRTX_HeavyVest_Camo260",
+        "BRTX_HeavyVest_Camo264"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Evil",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Evil2",
+      "MaxPriceThreshold": 48000,
+      "MinPriceThreshold": 24000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Extreme",
+      "MaxPriceThreshold": 48000,
+      "MinPriceThreshold": 24000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Extreme2",
+        "BRTX_HeavyVest_Extreme3"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Firebird",
+      "MaxPriceThreshold": 52000,
+      "MinPriceThreshold": 26000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Goblin",
+      "MaxPriceThreshold": 52000,
+      "MinPriceThreshold": 26000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Goblin2",
+      "MaxPriceThreshold": 56000,
+      "MinPriceThreshold": 28000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Joker",
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Joker2",
+        "BRTX_HeavyVest_Joker3"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_KingG",
+      "MaxPriceThreshold": 52000,
+      "MinPriceThreshold": 26000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_KingS",
+      "MaxPriceThreshold": 56000,
+      "MinPriceThreshold": 28000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Obsidian",
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 30000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Pun",
+      "MaxPriceThreshold": 56000,
+      "MinPriceThreshold": 28000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Pun2",
+        "BRTX_HeavyVest_Pun3",
+        "BRTX_HeavyVest_Pun4",
+        "BRTX_HeavyVest_Pun5",
+        "BRTX_HeavyVest_Pun5A",
+        "BRTX_HeavyVest_Pun6",
+        "BRTX_HeavyVest_Pun7",
+        "BRTX_HeavyVest_Pun8",
+        "BRTX_HeavyVest_Pun9",
+        "BRTX_HeavyVest_Pun10",
+        "BRTX_HeavyVest_Pun11",
+        "BRTX_HeavyVest_Pun12",
+        "BRTX_HeavyVest_Pun13",
+        "BRTX_HeavyVest_Pun14",
+        "BRTX_HeavyVest_Pun15",
+        "BRTX_HeavyVest_Pun15A",
+        "BRTX_HeavyVest_Pun16",
+        "BRTX_HeavyVest_Pun17",
+        "BRTX_HeavyVest_Pun18",
+        "BRTX_HeavyVest_Pun19",
+        "BRTX_HeavyVest_Pun20",
+        "BRTX_HeavyVest_Pun21"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_SkullB",
+      "MaxPriceThreshold": 64000,
+      "MinPriceThreshold": 32000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_SkullG",
+        "BRTX_HeavyVest_SkullP",
+        "BRTX_HeavyVest_SkullR",
+        "BRTX_HeavyVest_SkullY"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_SnakeB",
+      "MaxPriceThreshold": 68000,
+      "MinPriceThreshold": 34000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_SnakeG",
+        "BRTX_HeavyVest_SnakeP",
+        "BRTX_HeavyVest_SnakeR",
+        "BRTX_HeavyVest_SnakeY"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_StrainB",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 36000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_StrainG",
+        "BRTX_HeavyVest_StrainO",
+        "BRTX_HeavyVest_StrainP",
+        "BRTX_HeavyVest_StrainR",
+        "BRTX_HeavyVest_StrainY"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Toxic",
+      "MaxPriceThreshold": 72000,
+      "MinPriceThreshold": 36000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Toxic1",
+        "BRTX_HeavyVest_Toxic2",
+        "BRTX_HeavyVest_Toxic3",
+        "BRTX_HeavyVest_Toxic4",
+        "BRTX_HeavyVest_Toxic5",
+        "BRTX_HeavyVest_Toxic5A",
+        "BRTX_HeavyVest_Toxic6"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Venom",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_WolfB",
+      "MaxPriceThreshold": 74000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_WolfG",
+        "BRTX_HeavyVest_WolfO",
+        "BRTX_HeavyVest_WolfP",
+        "BRTX_HeavyVest_WolfPi",
+        "BRTX_HeavyVest_WolfR",
+        "BRTX_HeavyVest_WolfY"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_AngelG",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Bear",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Bear2",
+        "BRTX_HeavyVest_Bear3"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_CaptA",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Cobra",
+      "MaxPriceThreshold": 24000,
+      "MinPriceThreshold": 12000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_CrossB",
+      "MaxPriceThreshold": 26000,
+      "MinPriceThreshold": 13000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_CrossPi",
+      "MaxPriceThreshold": 28000,
+      "MinPriceThreshold": 14000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_DeadPool",
+      "MaxPriceThreshold": 28000,
+      "MinPriceThreshold": 14000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Demon",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Demon2",
+        "BRTX_HeavyVest_Demon2A"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Dog",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Dragon",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Dragon2",
+        "BRTX_HeavyVest_Dragon3",
+        "BRTX_HeavyVest_Dragon3A",
+        "BRTX_HeavyVest_Dragon4",
+        "BRTX_HeavyVest_Dragon4A"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Extreme4",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Extreme5R",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Gypsy",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Harly",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Hello",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Hello2",
+        "BRTX_HeavyVest_Hello3",
+        "BRTX_HeavyVest_Hello4"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_KamikazeGy",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_KamikazeGyA",
+        "BRTX_HeavyVest_KamikazeGyB"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Lightning",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Lightning2",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_NinjaB",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Preditor",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Reaper",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Reaper2",
+        "BRTX_HeavyVest_Reaper3Pi",
+        "BRTX_HeavyVest_Reaper4"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Rip",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Rip2",
+        "BRTX_HeavyVest_Rip3",
+        "BRTX_HeavyVest_Rip4"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Scorpion",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_SheDevilPi",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_SheDevilR",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Skull",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Skull2",
+        "BRTX_HeavyVest_Skull3",
+        "BRTX_HeavyVest_Skull4",
+        "BRTX_HeavyVest_Skull5",
+        "BRTX_HeavyVest_Skull6",
+        "BRTX_HeavyVest_Skull7O",
+        "BRTX_HeavyVest_Skull7Pi",
+        "BRTX_HeavyVest_Skull8",
+        "BRTX_HeavyVest_Skull8A"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Spade",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_StreetFighter",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_ThunderCats",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_ThunderCats2"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Transformers",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_UmBrella",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Viper",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Viper2",
+        "BRTX_HeavyVest_Viper3",
+        "BRTX_HeavyVest_Viper4",
+        "BRTX_HeavyVest_Viper5"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Wolf",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_Wolf2",
+        "BRTX_HeavyVest_Wolf2A",
+        "BRTX_HeavyVest_Wolf2B",
+        "BRTX_HeavyVest_Wolf3",
+        "BRTX_HeavyVest_Wolf4"
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_Wolverine",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+      ]
+    },
+    {
+      "ClassName": "BRTX_HeavyVest_XCamo109",
+      "MaxPriceThreshold": 31000,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BRTX_HeavyVest_XCamo109A",
+        "BRTX_HeavyVest_XCamo257",
+        "BRTX_HeavyVest_XCamo258",
+        "BRTX_HeavyVest_XCamo258A"
+      ]
+    }
+  ]
+}
